@@ -19,16 +19,16 @@
     <light pos="0 0 1.5" dir="0 0 -1" directional="true" />
     <geom name="floor" size="0 0 0.05" friction="1 0.5 0.1" type="plane" material="groundplane" />
 
-    <geom name="step1" type="box" size="0.25 3.0 0.15" pos="0.45 -4.5 0.05" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step2" type="box" size="0.25 3.0 0.15" pos="0.75 -4.5 0.20" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step3" type="box" size="0.25 3.0 0.15" pos="1.05 -4.5 0.35" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step4" type="box" size="0.25 3.0 0.15" pos="1.35 -4.5 0.50" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step5" type="box" size="0.25 3.0 0.15" pos="1.65 -4.5 0.65" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step6" type="box" size="0.25 3.0 0.15" pos="2.15 -4.5 0.65" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step7" type="box" size="0.25 3.0 0.15" pos="2.45 -4.5 0.50" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step8" type="box" size="0.25 3.0 0.15" pos="2.75 -4.5 0.35" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step9" type="box" size="0.25 3.0 0.15" pos="3.05 -4.5 0.20" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
-    <geom name="step10" type="box" size="0.25 3.0 0.15" pos="3.35 -4.5 0.05" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step1" type="box" size="0.25 3.0 0.15" pos="0.45 -4.5 0.0" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step2" type="box" size="0.25 3.0 0.15" pos="0.75 -4.5 0.15" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step3" type="box" size="0.25 3.0 0.15" pos="1.05 -4.5 0.30" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step4" type="box" size="0.25 3.0 0.15" pos="1.35 -4.5 0.45" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step5" type="box" size="0.25 3.0 0.15" pos="1.65 -4.5 0.60" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step6" type="box" size="0.25 3.0 0.15" pos="2.15 -4.5 0.60" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step7" type="box" size="0.25 3.0 0.15" pos="2.45 -4.5 0.45" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step8" type="box" size="0.25 3.0 0.15" pos="2.75 -4.5 0.30" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step9" type="box" size="0.25 3.0 0.15" pos="3.05 -4.5 0.15" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
+    <geom name="step10" type="box" size="0.25 3.0 0.15" pos="3.35 -4.5 0.0" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
 
     <!-- <geom name="step11" type="box" size="0.1 3.0 0.07" pos="-1.6 5 0.0" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
     <geom name="step12" type="box" size="0.1 3.0 0.07" pos="-1.8 5 0.07" friction="1 0.5 0.1" rgba="0.6 0.4 0.2 1"/>
