@@ -19,3 +19,5 @@ There are some files in utils that are not actually used – you can ignore them
 
 1. create a python env, install pytorch, numpy, mujoco 3.2.7, pynput
 2. use scripts/dreamwaq_go2.py
+
+The arrow keys control the quadruped robot's forward/backward movement and left/right translation, while the Q and E keys control its left/right rotation.
